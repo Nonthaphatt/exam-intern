@@ -1,0 +1,12 @@
+Question 1. (20 Points)
+Please design the database to manage user information and 
+implement 5 REST APIs are shown below by using NodeJS to manage a collection of user information. 
+All REST APIs must to connect on the database.  
+If your project applies ‘Express’ framework, ‘Objection.js’ and ‘Knex.js’ 
+would be receiving special consideration. 
+•	Creating a new user (POST) (validate password)
+•	Retrieving all users (GET) 
+•	Retrieving a single user by ID (GET)
+•	Updating an existing user by ID (PUT) ( css)
+•	Deleting a user by ID (DELETE)
+
